@@ -1,0 +1,2488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="33" original="/Bacularis API/messages.po" source-language="en" target-language="fr" datatype="plaintext" project-id="522050" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="6049" resname="Language:">
+        <source>Language:</source>
+        <target state="translated">Langue :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6051" resname="Language">
+        <source>Language</source>
+        <target state="translated">Langue</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6053" resname="select language">
+        <source>select language</source>
+        <target state="translated">sélectionner la langue</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6055" resname="Previous">
+        <source>Previous</source>
+        <target state="translated">Précédent</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6057" resname="Cancel">
+        <source>Cancel</source>
+        <target state="translated">Annuler</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6059" resname="Next">
+        <source>Next</source>
+        <target state="translated">Suivant</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6061" resname="Step 1 - select language">
+        <source>Step 1 - select language</source>
+        <target state="translated">Étape 1 - sélectionnez la langue</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6065" resname="Step 2 - share the Bacula Catalog Database">
+        <source>Step 2 - share the Bacula Catalog Database</source>
+        <target state="translated">Étape 2 - partager la base de données du catalogue Bacula</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6069" resname="Yes">
+        <source>Yes</source>
+        <target state="translated">Oui</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6071" resname="No">
+        <source>No</source>
+        <target state="translated">Non</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6073" resname="Database type:">
+        <source>Database type:</source>
+        <target state="translated">Type de base de données :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6075" resname="select database">
+        <source>select database</source>
+        <target state="translated">sélectionner la base de données</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6077" resname="Database name:">
+        <source>Database name:</source>
+        <target state="translated">Nom de la base de données :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6079" resname="Please select database type.">
+        <source>Please select database type.</source>
+        <target state="translated">Veuillez sélectionner le type de base de données.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6081" resname="Please enter database name.">
+        <source>Please enter database name.</source>
+        <target state="translated">Veuillez entrer le nom de la base de données.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6083" resname="Login:">
+        <source>Login:</source>
+        <target state="translated">Identifiant :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6085" resname="Please enter login.">
+        <source>Please enter login.</source>
+        <target state="translated">Veuillez entrer votre identifiant.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6087" resname="Password:">
+        <source>Password:</source>
+        <target state="translated">Mot de passe :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6089" resname="IP address (or hostname):">
+        <source>IP address (or hostname):</source>
+        <target state="translated">Adresse IP (ou nom d'hôte) :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6091" resname="Please enter IP address or hostname.">
+        <source>Please enter IP address or hostname.</source>
+        <target state="translated">Veuillez entrer une adresse IP ou un nom d'hôte.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6093" resname="Port:">
+        <source>Port:</source>
+        <target state="translated">Port :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6095" resname="Please enter database port.">
+        <source>Please enter database port.</source>
+        <target state="translated">Veuillez entrer le port de la base de données.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6097" resname="SQLite database path:">
+        <source>SQLite database path:</source>
+        <target state="translated">Chemin de la base de données SQLite :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6099" resname="Please enter database path.">
+        <source>Please enter database path.</source>
+        <target state="translated">Veuillez entrer le chemin de la base de données.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6101" resname="Connection test:">
+        <source>Connection test:</source>
+        <target state="translated">Test de connexion :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6103" resname="Loading...">
+        <source>Loading...</source>
+        <target state="translated">Chargement en cours...</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6105" resname="OK">
+        <source>OK</source>
+        <target state="translated">Ok</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6107" resname="Connection error">
+        <source>Connection error</source>
+        <target state="translated">Erreur de connexion</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6109" resname="test">
+        <source>test</source>
+        <target state="translated">test</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6113" resname="Bconsole binary file path:">
+        <source>Bconsole binary file path:</source>
+        <target state="translated">Chemin du fichier binaire Console</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6115" resname="Please enter bconsole path.">
+        <source>Please enter bconsole path.</source>
+        <target state="translated">Veuillez entrer le chemin de la bconsole</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6117" resname="Please enter bconsole config file path.">
+        <source>Please enter bconsole config file path.</source>
+        <target state="translated">Veuillez entrer le chemin du fichier de configuration console</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6119" resname="Use sudo:">
+        <source>Use sudo:</source>
+        <target state="translated">Utiliser sudo</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6121" resname="Bconsole connection test:">
+        <source>Bconsole connection test:</source>
+        <target state="translated">Test de connexion Bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6123" resname="Bconsole admin config file path:">
+        <source>Bconsole admin config file path:</source>
+        <target state="translated">Chemin du fichier de configuration d'administration Bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6125" resname="NOTE!">
+        <source>NOTE!</source>
+        <target state="translated">NOTE !</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6129" resname="Step 3 - share the Bacula Bconsole commands interface">
+        <source>Step 3 - share the Bacula Bconsole commands interface</source>
+        <target state="translated">Étape 3 - partagez l'interface des commandes Bacula Bconsole</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6131" resname="Console API">
+        <source>Console API</source>
+        <target state="translated">Console API</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6133" resname="bdirjson binary file path:">
+        <source>bdirjson binary file path:</source>
+        <target state="translated">Chemin du fichier binaire bdirjson :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6135" resname="bsdjson binary file path:">
+        <source>bsdjson binary file path:</source>
+        <target state="translated">Chemin du fichier binaire bsdjson :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6137" resname="bfdjson binary file path:">
+        <source>bfdjson binary file path:</source>
+        <target state="translated">Chemin du fichier binaire bfdjson :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6139" resname="bbconsjson binary file path:">
+        <source>bbconsjson binary file path:</source>
+        <target state="translated">Chemin du fichier binaire bbconsjson :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6141" resname="Main Director config file path (usually bacula-dir.conf):">
+        <source>Main Director config file path (usually bacula-dir.conf):</source>
+        <target state="translated">Chemin du fichier de configuration du directeur principal (généralement bacula-dir.conf) :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6143" resname="Main Storage Daemon config file path (usually bacula-sd.conf):">
+        <source>Main Storage Daemon config file path (usually bacula-sd.conf):</source>
+        <target state="translated">Chemin du fichier de configuration du démon principal de stockage (généralement bacula-sd.conf) :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6145" resname="Main File Daemon config file path (usually bacula-fd.conf):">
+        <source>Main File Daemon config file path (usually bacula-fd.conf):</source>
+        <target state="translated">Chemin du fichier de configuration principal du démon (généralement bacula-fd.conf) :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6147" resname="Admin Bconsole config file path (usually bconsole.conf):">
+        <source>Admin Bconsole config file path (usually bconsole.conf):</source>
+        <target state="translated">Chemin du fichier de configuration Admin Bconsole (généralement bconsole.conf) :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6149" resname="Test configuration">
+        <source>Test configuration</source>
+        <target state="translated">Tester la configuration</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6151" resname="General configuration">
+        <source>General configuration</source>
+        <target state="translated">Configuration générale</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6153" resname="Step 4 - share the Bacula configuration interface">
+        <source>Step 4 - share the Bacula configuration interface</source>
+        <target state="translated">Étape 4 - partagez l'interface de configuration de Bacula</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6155" resname="There is required to provide both binary file and config file paths.">
+        <source>There is required to provide both binary file and config file paths.</source>
+        <target state="translated">Il est nécessaire de fournir à la fois des chemins de fichiers binaires et de fichiers de configuration.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6157" resname="Directory path field is required.">
+        <source>Directory path field is required.</source>
+        <target state="translated">Le champ chemin du répertoire est obligatoire.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6159" resname="Provided directory path is not writable by web server.">
+        <source>Provided directory path is not writable by web server.</source>
+        <target state="translated">Le chemin du répertoire fourni n'est pas accessible en écriture par le serveur web.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6161" resname="Config API">
+        <source>Config API</source>
+        <target state="translated">Configurer l'API</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6163" resname="Error">
+        <source>Error</source>
+        <target state="translated">Erreur</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6165" resname="Finish">
+        <source>Finish</source>
+        <target state="translated">Terminer</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6169" resname="Administration login:">
+        <source>Administration login:</source>
+        <target state="translated">Connexion administrative :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6171" resname="Administration password:">
+        <source>Administration password:</source>
+        <target state="translated">Mot de passe d'administration :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6173" resname="Please enter password.">
+        <source>Please enter password.</source>
+        <target state="translated">Veuillez entrer le mot de passe.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6175" resname="Password must be longer than 4 chars.">
+        <source>Password must be longer than 4 chars.</source>
+        <target state="translated">Le mot de passe doit comporter plus de 4 caractères.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6177" resname="Retype administration password:">
+        <source>Retype administration password:</source>
+        <target state="translated">Retapez le mot de passe d'administration :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6179" resname="Please enter retype password.">
+        <source>Please enter retype password.</source>
+        <target state="translated">Veuillez saisir à nouveau le mot de passe.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6181" resname="Passwords must be the same.">
+        <source>Passwords must be the same.</source>
+        <target state="translated">Les mots de passe doivent être identiques.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6183" resname="Use HTTP Basic authentication">
+        <source>Use HTTP Basic authentication</source>
+        <target state="translated">Utiliser l'authentification HTTP basique</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6185" resname="Use OAuth2 for authorization and authentication">
+        <source>Use OAuth2 for authorization and authentication</source>
+        <target state="translated">Utiliser OAuth2 pour l'autorisation et l'authentification</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6187" resname="Database port:">
+        <source>Database port:</source>
+        <target state="translated">Port de la base de données :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6189" resname="Database file path (SQLite only):">
+        <source>Database file path (SQLite only):</source>
+        <target state="translated">Chemin du fichier de la base de données (SQLite uniquement) :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6191" resname="Use sudo for bconsole requests:">
+        <source>Use sudo for bconsole requests:</source>
+        <target state="translated">Utiliser sudo pour les requêtes bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6193" resname="Save">
+        <source>Save</source>
+        <target state="translated">Sauvegarder</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6195" resname="Step 6 - Finish">
+        <source>Step 6 - Finish</source>
+        <target state="translated">Étape 6 - Terminer</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6197" resname="Use sudo for Bacula JSON tools:">
+        <source>Use sudo for Bacula JSON tools:</source>
+        <target state="translated">Utiliser sudo pour les outils Bacula JSON :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6199" resname="Main Director config file path:">
+        <source>Main Director config file path:</source>
+        <target state="translated">Chemin du fichier de configuration principal du directeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6201" resname="Main Client config file path:">
+        <source>Main Client config file path:</source>
+        <target state="translated">Chemin du fichier de configuration du client principal :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6203" resname="Main Storage Daemon config file path:">
+        <source>Main Storage Daemon config file path:</source>
+        <target state="translated">Chemin du fichier de configuration principal du démon :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6205" resname="Main Bconsole config file path:">
+        <source>Main Bconsole config file path:</source>
+        <target state="translated">Chemin du fichier de configuration principal de Bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6207" resname="Please select API endpoint">
+        <source>Please select API endpoint</source>
+        <target state="translated">Veuillez sélectionner le point de terminaison de l'API</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6209" resname="Catalog access:">
+        <source>Catalog access:</source>
+        <target state="translated">Accès au catalogue :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6211" resname="Console access:">
+        <source>Console access:</source>
+        <target state="translated">Accès à la console :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6213" resname="Config access:">
+        <source>Config access:</source>
+        <target state="translated">Accès à la configuration :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6215" resname="Disabled">
+        <source>Disabled</source>
+        <target state="translated">Désactivé</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6217" resname="Invalid Client ID value. Client ID may contain a-z A-Z 0-9 - _ characters.">
+        <source>Invalid Client ID value. Client ID may contain a-z A-Z 0-9 - _ characters.</source>
+        <target state="translated">Valeur d'ID client invalide. L'ID du client peut contenir des caractères a-z A-Z 0-9 - _.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6219" resname="Please enter Client ID.">
+        <source>Please enter Client ID.</source>
+        <target state="translated">Veuillez entrer l'ID du client.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6221" resname="OAuth2 Client ID:">
+        <source>OAuth2 Client ID:</source>
+        <target state="translated">ID client OAuth2 :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6223" resname="OAuth2 Client Secret:">
+        <source>OAuth2 Client Secret:</source>
+        <target state="translated">Secret client OAuth2 :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6225" resname="Please enter Client Secret.">
+        <source>Please enter Client Secret.</source>
+        <target state="translated">Veuillez entrer le secret du client.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6227" resname="Invalid Client Secret value. Client Secret may contain any character that is not a whitespace character.">
+        <source>Invalid Client Secret value. Client Secret may contain any character that is not a whitespace character.</source>
+        <target state="translated">Valeur secrète invalide. Le Client Secret peut contenir n'importe quel caractère qui n'est pas un caractère d'espace.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6229" resname="generate">
+        <source>generate</source>
+        <target state="translated">générer</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6231" resname="Dedicated Bconsole config file path:">
+        <source>Dedicated Bconsole config file path:</source>
+        <target state="translated">Chemin du fichier de configuration dédié à Bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6233" resname="Please enter Redirect URI.">
+        <source>Please enter Redirect URI.</source>
+        <target state="translated">Veuillez entrer l'URL de redirection.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6235" resname="OAuth2 Redirect URI (example: https://bacularis:9097/web/redirect):">
+        <source>OAuth2 Redirect URI (example: https://bacularis:9097/web/redirect):</source>
+        <target state="translated">URI de redirection OAuth2 (exemple : https://bacularis:9097/web/redirect) :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6237" resname="(optional)">
+        <source>(optional)</source>
+        <target state="translated">(facultatif)</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6239" resname="OAuth2 scopes (space separated):">
+        <source>OAuth2 scopes (space separated):</source>
+        <target state="translated">Portées OAuth2 (séparées par des espaces) :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6241" resname="Please enter OAuth2 scopes.">
+        <source>Please enter OAuth2 scopes.</source>
+        <target state="translated">Veuillez entrer les portées OAuth2.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6243" resname="Refresh token">
+        <source>Refresh token</source>
+        <target state="translated">Actualiser le jeton</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6245" resname="New OAuth2 client">
+        <source>New OAuth2 client</source>
+        <target state="translated">Nouveau client OAuth2</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6247" resname="Add">
+        <source>Add</source>
+        <target state="translated">Ajouter</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6249" resname="API Login:">
+        <source>API Login:</source>
+        <target state="translated">Connexion à l'API :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6251" resname="API Password:">
+        <source>API Password:</source>
+        <target state="translated">Mot de passe API :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6253" resname="Retype password:">
+        <source>Retype password:</source>
+        <target state="translated">Retapez le mot de passe :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6255" resname="Please enter API login.">
+        <source>Please enter API login.</source>
+        <target state="translated">Veuillez entrer la connexion à l'API.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6257" resname="Please enter API password.">
+        <source>Please enter API password.</source>
+        <target state="translated">Veuillez entrer le mot de passe de l'API.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6259" resname="User added successfully.">
+        <source>User added successfully.</source>
+        <target state="translated">Utilisateur ajouté avec succès.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6261" resname="Problem during save to config file. Please check users config file permission.">
+        <source>Problem during save to config file. Please check users config file permission.</source>
+        <target state="translated">Problème lors de l'enregistrement dans le fichier de configuration. Veuillez vérifier la permission du fichier de configuration des utilisateurs.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6263" resname="Given user already exists in config file.">
+        <source>Given user already exists in config file.</source>
+        <target state="translated">L'utilisateur existe déjà dans le fichier de configuration.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6265" resname="set all scopes">
+        <source>set all scopes</source>
+        <target state="translated">définir toutes les portées</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="11457" resname="API panel">
+        <source>API panel</source>
+        <target state="translated">Panneau API</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9387" resname="Bacularis API Client">
+        <source>Bacularis API Client</source>
+        <target state="translated">Bacularis API Client</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="11459" resname="Try one of the API commands">
+        <source>Try one of the API commands</source>
+        <target state="translated">Essaye une commande API</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 108</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6273" resname="Starting...">
+        <source>Starting...</source>
+        <target state="translated">Démarrage en cours...</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6275" resname="Username">
+        <source>Username</source>
+        <target state="translated">Nom d'utilisateur</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6277" resname="Delete">
+        <source>Delete</source>
+        <target state="translated">Supprimer</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6279" resname="Client ID">
+        <source>Client ID</source>
+        <target state="translated">ID du client</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 112</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6281" resname="Redirect URI">
+        <source>Redirect URI</source>
+        <target state="translated">URI de redirection</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6283" resname="Scopes">
+        <source>Scopes</source>
+        <target state="translated">Portées</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6285" resname="Bconsole Path">
+        <source>Bconsole Path</source>
+        <target state="translated">Chemin Bconsole</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 115</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6287" resname="Access token:">
+        <source>Access token:</source>
+        <target state="translated">Jeton d'accès :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 116</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6289" resname="Send request">
+        <source>Send request</source>
+        <target state="translated">Envoyer la demande</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6291" resname="Basic auth ready...">
+        <source>Basic auth ready...</source>
+        <target state="translated">Authentification basique prête...</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6293" resname="Name">
+        <source>Name</source>
+        <target state="translated">Nom</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6295" resname="Short name:">
+        <source>Short name:</source>
+        <target state="translated">Nom court :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6297" resname="Edit">
+        <source>Edit</source>
+        <target state="translated">Modifier</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6299" resname="Edit OAuth2 client parameters">
+        <source>Edit OAuth2 client parameters</source>
+        <target state="translated">Modifier les paramètres du client OAuth2</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 122</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6301" resname="Select:">
+        <source>Select:</source>
+        <target state="translated">Sélectionner :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10398" resname="Bacularis working directory for Bacula config:">
+        <source>Bacularis working directory for Bacula config:</source>
+        <target state="translated">Répertoire de travail Bacularis pour la configuration Bacula</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10400" resname="In this directory Bacularis API saves temporarily Bacula configuration files (mainly for validation purposes) just before they are written as real Bacula configuration files.">
+        <source>In this directory Bacularis API saves temporarily Bacula configuration files (mainly for validation purposes) just before they are written as real Bacula configuration files.</source>
+        <target state="translated">Dans ce répertoire, l’API Bacularis enregistre temporairement les fichiers de configuration Bacula (principalement pour validation) avant leur écriture définitive.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 125</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6307" resname="Version:">
+        <source>Version:</source>
+        <target state="translated">Version :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 126</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6309" resname="Authentication">
+        <source>Authentication</source>
+        <target state="translated">Authentification</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 127</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6313" resname="Authentication type:">
+        <source>Authentication type:</source>
+        <target state="translated">Type d'authentification :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6315" resname="Step 5 - authentication to API">
+        <source>Step 5 - authentication to API</source>
+        <target state="translated">Étape 5 - authentification à l'API</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6317" resname="Actions">
+        <source>Actions</source>
+        <target state="translated">Actions</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6319" resname="Start">
+        <source>Start</source>
+        <target state="translated">Début</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6321" resname="Stop">
+        <source>Stop</source>
+        <target state="translated">Arrêter</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 132</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6323" resname="Restart">
+        <source>Restart</source>
+        <target state="translated">Redémarrer</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 133</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6325" resname="Director start command:">
+        <source>Director start command:</source>
+        <target state="translated">Commande de démarrage du directeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6327" resname="Director stop command:">
+        <source>Director stop command:</source>
+        <target state="translated">Commande d'arrêt du directeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6329" resname="Director restart command:">
+        <source>Director restart command:</source>
+        <target state="translated">Commande de redémarrage du directeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6331" resname="Storage Daemon start command:">
+        <source>Storage Daemon start command:</source>
+        <target state="translated">Commande de démarrage du démon de stockage :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6333" resname="Storage Daemon stop command:">
+        <source>Storage Daemon stop command:</source>
+        <target state="translated">Commande d'arrêt du démon de stockage :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 138</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6335" resname="Storage Daemon restart command:">
+        <source>Storage Daemon restart command:</source>
+        <target state="translated">Commande de redémarrage du démon de stockage :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 139</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6337" resname="File Daemon/Client start command:">
+        <source>File Daemon/Client start command:</source>
+        <target state="translated">Commande de démarrage du fichier Daemon/Client :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 140</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6339" resname="File Daemon/Client stop command:">
+        <source>File Daemon/Client stop command:</source>
+        <target state="translated">Commande d'arrêt Fichier Daemon/Client  :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 141</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6341" resname="File Daemon/Client restart command:">
+        <source>File Daemon/Client restart command:</source>
+        <target state="translated">Commande de redémarrage du fichier Daemon/Client :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 142</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6343" resname="Do you want to setup start, stop and restart actions for Bacula components? If you define them, there will be possible to call these actions via API interface and by Baculum Web as well.">
+        <source>Do you want to setup start, stop and restart actions for Bacula components? If you define them, there will be possible to call these actions via API interface and by Baculum Web as well.</source>
+        <target state="translated">Voulez-vous configurer les actions de démarrage, d'arrêt et de redémarrage pour les composants Bacula ? Si vous les définissez, il sera possible d'appeler ces actions via l'interface API et par Baculum Web aussi.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 143</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6345" resname="Sudo configuration">
+        <source>Sudo configuration</source>
+        <target state="translated">Configuration de Sudo</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 144</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10402" resname="Example sudo configuration for Apache, Nginx and Lighttpd web servers with default PHP-FPM configuration:">
+        <source>Example sudo configuration for Apache, Nginx and Lighttpd web servers with default PHP-FPM configuration:</source>
+        <target state="translated">Exemple de configuration sudo pour les serveurs web Apache, Nginx et Lighttpd avec configuration PHP-FPM par défaut</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 145</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6351" resname="Get sudo configuration">
+        <source>Get sudo configuration</source>
+        <target state="translated">Obtenir la configuration de sudo</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 146</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10404" resname="Please copy appropriate sudo configuration and put it to a new sudoers.d file for example /etc/sudoers.d/bacularis">
+        <source>Please copy appropriate sudo configuration and put it to a new sudoers.d file for example /etc/sudoers.d/bacularis</source>
+        <target state="translated">Copiez la configuration sudo appropriée dans un nouveau fichier sudoers, par exemple /etc/sudoers.d/bacularis</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 147</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6355" resname="Step 5 - enable actions for components">
+        <source>Step 5 - enable actions for components</source>
+        <target state="translated">Étape 5 - activer les actions pour les composants</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6357" resname="Directory path for new config files:">
+        <source>Directory path for new config files:</source>
+        <target state="translated">Chemin du répertoire pour les nouveaux fichiers de configuration :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 149</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6359" resname="Use sudo for actions:">
+        <source>Use sudo for actions:</source>
+        <target state="translated">Utiliser sudo pour les actions :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 150</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6361" resname="Actions setting:">
+        <source>Actions setting:</source>
+        <target state="translated">Paramètres d'actions :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 151</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6363" resname="Note">
+        <source>Note</source>
+        <target state="translated">Remarque</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 152</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6365" resname="Please use visudo to add this configuration, otherwise please do remember to add empty line at the end of file.">
+        <source>Please use visudo to add this configuration, otherwise please do remember to add empty line at the end of file.</source>
+        <target state="translated">Veuillez utiliser visudo pour ajouter cette configuration, sinon n'oubliez pas d'ajouter une ligne vide à la fin du fichier.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 153</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6367" resname="Dashboard">
+        <source>Dashboard</source>
+        <target state="translated">Tableau de bord</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 154</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6369" resname="Basic users">
+        <source>Basic users</source>
+        <target state="translated">Utilisateurs de base</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 155</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6371" resname="OAuth2 clients">
+        <source>OAuth2 clients</source>
+        <target state="translated">Clients OAuth2</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6373" resname="Settings">
+        <source>Settings</source>
+        <target state="translated">Paramètres</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 157</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6375" resname="Configuration wizard">
+        <source>Configuration wizard</source>
+        <target state="translated">Assistant de configuration</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6377" resname="Welcome">
+        <source>Welcome</source>
+        <target state="translated">Bienvenue</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 159</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6379" resname="Add user">
+        <source>Add user</source>
+        <target state="translated">Ajouter un utilisateur</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6381" resname="Edit user">
+        <source>Edit user</source>
+        <target state="translated">Modifier l'utilisateur</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 161</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6383" resname="Add OAuth2 client">
+        <source>Add OAuth2 client</source>
+        <target state="translated">Ajouter un client OAuth2</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 162</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6385" resname="Are you sure?">
+        <source>Are you sure?</source>
+        <target state="translated">Êtes-vous sûr(e) ?</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 163</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6387" resname="API settings">
+        <source>API settings</source>
+        <target state="translated">Paramètres de l'API</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 164</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6389" resname="General">
+        <source>General</source>
+        <target state="translated">Général</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 165</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6391" resname="Catalog">
+        <source>Catalog</source>
+        <target state="translated">Catalogue</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 166</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6393" resname="Console">
+        <source>Console</source>
+        <target state="translated">Console</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 167</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6395" resname="Config">
+        <source>Config</source>
+        <target state="translated">Configuration</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 168</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6397" resname="Enabled:">
+        <source>Enabled:</source>
+        <target state="translated">Activé :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 169</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6399" resname="Debug:">
+        <source>Debug:</source>
+        <target state="translated">Débogue :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 170</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6401" resname="Add client">
+        <source>Add client</source>
+        <target state="translated">Ajouter un client</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 171</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6403" resname="Edit client">
+        <source>Edit client</source>
+        <target state="translated">Modifier le client</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 172</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6405" resname="Invalid user. User may contain a-z A-Z 0-9 characters.">
+        <source>Invalid user. User may contain a-z A-Z 0-9 characters.</source>
+        <target state="translated">Utilisateur invalide. L'utilisateur peut contenir des caractères a-z A-Z 0-9 caractères.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 173</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6407" resname="Show/hide">
+        <source>Show/hide</source>
+        <target state="translated">Afficher/masquer</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 174</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6409" resname="Copy to clipboard">
+        <source>Copy to clipboard</source>
+        <target state="translated">Copier dans le presse-papiers</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 175</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6411" resname="Logout">
+        <source>Logout</source>
+        <target state="translated">Déconnexion</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 176</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6413" resname="Devices">
+        <source>Devices</source>
+        <target state="translated">Appareils</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 177</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6415" resname="Autochangers">
+        <source>Autochangers</source>
+        <target state="translated">Changeur automatique</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 178</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6417" resname="Add autochanger">
+        <source>Add autochanger</source>
+        <target state="translated">Ajouter un changeur automatique</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6419" resname="Device">
+        <source>Device</source>
+        <target state="translated">Appareil</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 180</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6421" resname="Name:">
+        <source>Name:</source>
+        <target state="translated">Nom :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 181</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6423" resname="Changer device:">
+        <source>Changer device:</source>
+        <target state="translated">Changer d'appareil :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 182</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6425" resname="Changer command:">
+        <source>Changer command:</source>
+        <target state="translated">Commande du changeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 183</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6427" resname="Drive index:">
+        <source>Drive index:</source>
+        <target state="translated">Index du lecteur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 184</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6429" resname="Drive index">
+        <source>Drive index</source>
+        <target state="translated">Index du lecteur</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 185</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6431" resname="Devices:">
+        <source>Devices:</source>
+        <target state="translated">Appareils :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 186</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6433" resname="Add device">
+        <source>Add device</source>
+        <target state="translated">Ajouter un appareil</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 187</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6435" resname="Field cannot be empty.">
+        <source>Field cannot be empty.</source>
+        <target state="translated">Le champ ne peut pas être vide.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 188</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6437" resname="Invalid value.">
+        <source>Invalid value.</source>
+        <target state="translated">Valeur non valide.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 189</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6439" resname="Device with the given name already exists.">
+        <source>Device with the given name already exists.</source>
+        <target state="translated">Un appareil portant le nom spécifié existe déjà.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 190</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6441" resname="Edit device">
+        <source>Edit device</source>
+        <target state="translated">Modifier l'appareil</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 191</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6443" resname="Use CTRL + left-click to multiple item selection">
+        <source>Use CTRL + left-click to multiple item selection</source>
+        <target state="translated">Utiliser CTRL + clic gauche pour sélectionner plusieurs éléments</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 192</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6445" resname="Device path:">
+        <source>Device path:</source>
+        <target state="translated">Chemin de l'appareil :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 193</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6447" resname="Edit autochanger">
+        <source>Edit autochanger</source>
+        <target state="translated">Modifier l'auto-changeur</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 194</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6449" resname="Autochanger">
+        <source>Autochanger</source>
+        <target state="translated">Changeur automatique</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 195</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6451" resname="Unable to delete device. Please unassign it from autochanger '%s' first.">
+        <source>Unable to delete device. Please unassign it from autochanger '%s' first.</source>
+        <target state="translated">Impossible de supprimer l'appareil. Veuillez le retirer de l'auto-changeur '%s' d'abord.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 196</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6453" resname="Autochanger with the given name already exists.">
+        <source>Autochanger with the given name already exists.</source>
+        <target state="translated">L'auto-changeur avec le nom spécifié existe déjà.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 197</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6455" resname="Copy from Bacula SD config:">
+        <source>Copy from Bacula SD config:</source>
+        <target state="translated">Copier depuis la configuration de Bacula SD :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 198</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6457" resname="Changer command test:">
+        <source>Changer command test:</source>
+        <target state="translated">Changer le test de commande :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 199</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6459" resname="Changer command error">
+        <source>Changer command error</source>
+        <target state="translated">Changer la commande d'erreur</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 200</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6461" resname="Copy">
+        <source>Copy</source>
+        <target state="translated">Copier</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 201</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6463" resname="Column visibility">
+        <source>Column visibility</source>
+        <target state="translated">Visibilité des colonnes</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 202</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6465" resname="1 row selected">
+        <source>1 row selected</source>
+        <target state="translated">1 ligne sélectionnée</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 203</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6467" resname="%d rows selected">
+        <source>%d rows selected</source>
+        <target state="translated">%d lignes sélectionnées</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6471" resname="Showing _START_ to _END_ of _TOTAL_ entries">
+        <source>Showing _START_ to _END_ of _TOTAL_ entries</source>
+        <target state="translated">Affichage de _START_ à _END_ sur _TOTAL_ entré</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 205</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6473" resname="First">
+        <source>First</source>
+        <target state="translated">Premier</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 206</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6475" resname="Last">
+        <source>Last</source>
+        <target state="translated">Dernier</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 207</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6477" resname="No matching records found">
+        <source>No matching records found</source>
+        <target state="translated">Aucun enregistrement correspondant trouvé</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 208</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6479" resname="filtered from _MAX_ total entries">
+        <source>filtered from _MAX_ total entries</source>
+        <target state="translated">filtré depuis _MAX_ entrées totales</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 209</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6481" resname="No data available in table">
+        <source>No data available in table</source>
+        <target state="translated">Aucune donnée disponible dans la table</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 210</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6483" resname="Search:">
+        <source>Search:</source>
+        <target state="translated">Recherche :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 211</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6485" resname="Get pre-defined paths:">
+        <source>Get pre-defined paths:</source>
+        <target state="translated">Récupérer les chemins prédéfinis :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 212</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6487" resname="Select paths">
+        <source>Select paths</source>
+        <target state="translated">Sélectionner les chemins d'accès</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 213</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6489" resname="Binaries:">
+        <source>Binaries:</source>
+        <target state="translated">Binaires :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 214</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6491" resname="Configs:">
+        <source>Configs:</source>
+        <target state="translated">Configurations :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 215</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6493" resname="Dedicated Bconsole config">
+        <source>Dedicated Bconsole config</source>
+        <target state="translated">Configuration dédiée à Bconsole</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 216</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6495" resname="Step 1 - general options">
+        <source>Step 1 - general options</source>
+        <target state="translated">Étape 1 - options générales</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 217</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6497" resname="Services:">
+        <source>Services:</source>
+        <target state="translated">Services :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 218</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6499" resname="Enable API instance">
+        <source>Enable API instance</source>
+        <target state="translated">Activer l'instance API</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 219</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6501" resname="Enable web interface">
+        <source>Enable web interface</source>
+        <target state="translated">Activer l'interface web</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 220</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6503" resname="Welcome to the Bacularis install wizard">
+        <source>Welcome to the Bacularis install wizard</source>
+        <target state="translated">Bienvenue dans l'assistant d'installation de Bacularis</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 221</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6505" resname="Please select language.">
+        <source>Please select language.</source>
+        <target state="translated">Veuillez sélectionner une langue.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 222</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6507" resname="What services would you like to enable for this installation?">
+        <source>What services would you like to enable for this installation?</source>
+        <target state="translated">Quels services souhaitez-vous activer pour cette installation ?</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 223</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6509" resname="recommended">
+        <source>recommended</source>
+        <target state="translated">Recommandé</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 224</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6511" resname="Step 5 - authentication">
+        <source>Step 5 - authentication</source>
+        <target state="translated">Étape 5 - authentification</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 225</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6513" resname="API authentication">
+        <source>API authentication</source>
+        <target state="translated">Authentification de l'API</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 226</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6515" resname="Use the same credentials for the API and for the web interface">
+        <source>Use the same credentials for the API and for the web interface</source>
+        <target state="translated">Utiliser les mêmes identifiants pour l'API et l'interface web</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 227</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6517" resname="Advanced options">
+        <source>Advanced options</source>
+        <target state="translated">Options avancées</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 228</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6519" resname="Web interface settings">
+        <source>Web interface settings</source>
+        <target state="translated">Paramètres de l'interface Web</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 229</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6521" resname="API IP Address/Hostname:">
+        <source>API IP Address/Hostname:</source>
+        <target state="translated">Adresse IP API / Nom d'hôte :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 230</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6523" resname="Web interface authentication">
+        <source>Web interface authentication</source>
+        <target state="translated">Authentification de l'interface Web</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 231</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6525" resname="API Protocol:">
+        <source>API Protocol:</source>
+        <target state="translated">Protocole de l'API :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 232</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6527" resname="API Port:">
+        <source>API Port:</source>
+        <target state="translated">Port de l'API :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 233</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9497" resname="Select OS type">
+        <source>Select OS type</source>
+        <target state="translated">Sélectionnez le type d'OS</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 234</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9499" resname="RPM-based system">
+        <source>RPM-based system</source>
+        <target state="translated">Système basé sur RPM</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 235</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9501" resname="DEB-based system">
+        <source>DEB-based system</source>
+        <target state="translated">Système basé sur DEB</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 236</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9503" resname="Director installation command:">
+        <source>Director installation command:</source>
+        <target state="translated">Commande d'installation du directeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 237</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9505" resname="Director upgrade command:">
+        <source>Director upgrade command:</source>
+        <target state="translated">Commande de mise à jour du directeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 238</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9507" resname="Director removal command:">
+        <source>Director removal command:</source>
+        <target state="translated">Commande de suppression du directeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 239</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9509" resname="Director info command:">
+        <source>Director info command:</source>
+        <target state="translated">Commande d'information du directeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 240</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9511" resname="Director enable command:">
+        <source>Director enable command:</source>
+        <target state="translated">Commande d'activation du directeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 241</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9513" resname="Director pre-installation command:">
+        <source>Director pre-installation command:</source>
+        <target state="translated">Commande de pré-installation du directeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 242</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9515" resname="Director pre-upgrade command:">
+        <source>Director pre-upgrade command:</source>
+        <target state="translated">Commande de pré-mise à jour du directeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 243</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9517" resname="Director pre-removal command:">
+        <source>Director pre-removal command:</source>
+        <target state="translated">Commande de pré-suppression du directeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 244</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9519" resname="Director post-installation command:">
+        <source>Director post-installation command:</source>
+        <target state="translated">Commande de post-installation du Directeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 245</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9521" resname="Director post-upgrade command:">
+        <source>Director post-upgrade command:</source>
+        <target state="translated">Commande de post-mise à jour du directeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 246</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9523" resname="Director post-removal command:">
+        <source>Director post-removal command:</source>
+        <target state="translated">Commande de post-suppression du directeur :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 247</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9525" resname="Storage Daemon installation command:">
+        <source>Storage Daemon installation command:</source>
+        <target state="translated">Commande d'installation du démon de stockage :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 248</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9527" resname="Storage upgrade command:">
+        <source>Storage upgrade command:</source>
+        <target state="translated">Commande de mise à niveau de stockage :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 249</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9529" resname="Storage removal command:">
+        <source>Storage removal command:</source>
+        <target state="translated">Commande de suppression du stockage :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 250</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9531" resname="Storage info command:">
+        <source>Storage info command:</source>
+        <target state="translated">Commande info de stockage :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 251</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9533" resname="Storage enable command:">
+        <source>Storage enable command:</source>
+        <target state="translated">Commande d'activation du stockage :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 252</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9535" resname="Storage pre-installation command:">
+        <source>Storage pre-installation command:</source>
+        <target state="translated">Commande de pré-installation de stockage :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 253</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9537" resname="Storage pre-upgrade command:">
+        <source>Storage pre-upgrade command:</source>
+        <target state="translated">Commande de pré-mise à niveau du stockage :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 254</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9539" resname="Storage pre-removal command:">
+        <source>Storage pre-removal command:</source>
+        <target state="translated">Commande de pré-suppression du stockage :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 255</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9541" resname="Storage post-installation command:">
+        <source>Storage post-installation command:</source>
+        <target state="translated">Commande de post-installation de stockage :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 256</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9543" resname="Storage post-upgrade command:">
+        <source>Storage post-upgrade command:</source>
+        <target state="translated">Commande de stockage après mise à jour :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 257</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9545" resname="Storage post-removal command:">
+        <source>Storage post-removal command:</source>
+        <target state="translated">Commande de post-suppression de stockage :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 258</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9547" resname="Client installation command:">
+        <source>Client installation command:</source>
+        <target state="translated">Commande d'installation du client :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 259</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9549" resname="Client upgrade command:">
+        <source>Client upgrade command:</source>
+        <target state="translated">Commande de mise à jour du client :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 260</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9551" resname="Client removal command:">
+        <source>Client removal command:</source>
+        <target state="translated">Commande de suppression du client :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 261</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9553" resname="Client info command:">
+        <source>Client info command:</source>
+        <target state="translated">Commande d'information du client :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 262</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9555" resname="Client enable command:">
+        <source>Client enable command:</source>
+        <target state="translated">Commande d'activation du client :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 263</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9557" resname="Client pre-installation command:">
+        <source>Client pre-installation command:</source>
+        <target state="translated">Commande de pré-installation du client :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 264</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9559" resname="Client pre-upgrade command:">
+        <source>Client pre-upgrade command:</source>
+        <target state="translated">Commande de pré-mise à jour du client :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 265</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9561" resname="Client pre-removal command:">
+        <source>Client pre-removal command:</source>
+        <target state="translated">Commande de pré-suppression du client :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 266</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9563" resname="Client post-installation command:">
+        <source>Client post-installation command:</source>
+        <target state="translated">Commande de post-installation du client :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 267</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9565" resname="Client post-upgrade command:">
+        <source>Client post-upgrade command:</source>
+        <target state="translated">Commande de post-mise à jour du client :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 268</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9567" resname="Client post-removal command:">
+        <source>Client post-removal command:</source>
+        <target state="translated">Commande de post-suppression du client :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 269</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9569" resname="Bconsole installation command:">
+        <source>Bconsole installation command:</source>
+        <target state="translated">Commande d'installation Bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 270</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9571" resname="Bconsole upgrade command:">
+        <source>Bconsole upgrade command:</source>
+        <target state="translated">Commande de mise à niveau Bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 271</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9573" resname="Bconsole removal command:">
+        <source>Bconsole removal command:</source>
+        <target state="translated">Commande de suppression Bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 272</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9575" resname="Bconsole info command:">
+        <source>Bconsole info command:</source>
+        <target state="translated">Commande d'information Bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 273</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9577" resname="Bconsole enable command:">
+        <source>Bconsole enable command:</source>
+        <target state="translated">Commande d'activation Bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 274</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9579" resname="Bconsole pre-installation command:">
+        <source>Bconsole pre-installation command:</source>
+        <target state="translated">Commande de pré-installation de Bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 275</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9581" resname="Bconsole pre-upgrade command:">
+        <source>Bconsole pre-upgrade command:</source>
+        <target state="translated">Commande pré-mise à jour Bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 276</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9583" resname="Bconsole pre-removal command:">
+        <source>Bconsole pre-removal command:</source>
+        <target state="translated">Commande de pré-suppression de Bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 277</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9585" resname="Bconsole post-installation command:">
+        <source>Bconsole post-installation command:</source>
+        <target state="translated">Commande de post-installation Bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 278</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9587" resname="Bconsole post-upgrade command:">
+        <source>Bconsole post-upgrade command:</source>
+        <target state="translated">Commande post-mise à jour Bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 279</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9589" resname="Bconsole post-removal command:">
+        <source>Bconsole post-removal command:</source>
+        <target state="translated">Commande de post-suppression Bconsole :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 280</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9591" resname="Software management">
+        <source>Software management</source>
+        <target state="translated">Gestion des logiciels</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 281</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9593" resname="Get pre-defined commands:">
+        <source>Get pre-defined commands:</source>
+        <target state="translated">Obtenir les commandes prédéfinies :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 282</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10112" resname="Director resource permissions">
+        <source>Director resource permissions</source>
+        <target state="translated">Permissions de ressource du Directeur</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 283</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10114" resname="Storage resource permissions">
+        <source>Storage resource permissions</source>
+        <target state="translated">Permissions de ressource du Stockage</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 284</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10116" resname="Client resource permissions">
+        <source>Client resource permissions</source>
+        <target state="translated">Permissions de ressource du Client</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 285</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10118" resname="Bconsole resource permissions">
+        <source>Bconsole resource permissions</source>
+        <target state="translated">Permissions de ressource de Bconsole</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 286</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10120" resname="Resource">
+        <source>Resource</source>
+        <target state="translated">Ressource</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 287</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10122" resname="Read-Only">
+        <source>Read-Only</source>
+        <target state="translated">Lecture seule</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 288</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10124" resname="Read-Write">
+        <source>Read-Write</source>
+        <target state="translated">Lecture/Écriture</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 289</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10126" resname="No access">
+        <source>No access</source>
+        <target state="translated">Aucun accès</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 290</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10128" resname="read only">
+        <source>read only</source>
+        <target state="translated">lecture seule</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 291</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10130" resname="read write">
+        <source>read write</source>
+        <target state="translated">lecture/écriture</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 292</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10132" resname="no access">
+        <source>no access</source>
+        <target state="translated">aucun accès</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10134" resname="Preview">
+        <source>Preview</source>
+        <target state="translated">Aperçu</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 294</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10136" resname="All read-only">
+        <source>All read-only</source>
+        <target state="translated">Tout en lecture seule</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 295</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10138" resname="All read-write">
+        <source>All read-write</source>
+        <target state="translated">Tout en lecture/écriture</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 296</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10140" resname="All no access">
+        <source>All no access</source>
+        <target state="translated">Tout sans accès</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 297</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10142" resname="Resource permissions">
+        <source>Resource permissions</source>
+        <target state="translated">Permissions des ressources</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 298</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10144" resname="By default, all resources have read-write permissions.">
+        <source>By default, all resources have read-write permissions.</source>
+        <target state="translated">Par défaut, toutes les ressources ont des permissions lecture/écriture.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 299</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10146" resname="Sudo Runas user:">
+        <source>Sudo Runas user:</source>
+        <target state="translated">Sudo fonctionne en tant qu'utilisateur:</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 300</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10148" resname="Sudo Runas group:">
+        <source>Sudo Runas group:</source>
+        <target state="translated">Sudo fonctionne en tant que groupe:</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 301</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10406" resname="What services do you want to enable for this installation?">
+        <source>What services do you want to enable for this installation?</source>
+        <target state="translated">Quels services souhaitez-vous activer pour cette installation ?</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 302</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10408" resname="Do you have Bacula installed on this host?">
+        <source>Do you have Bacula installed on this host?</source>
+        <target state="translated">Avez-vous Bacula installé sur cet hôte ?</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 303</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10410" resname="Yes. I already have Bacula component(s) installed on this host. I would like to use Bacularis with them.">
+        <source>Yes. I already have Bacula component(s) installed on this host. I would like to use Bacularis with them.</source>
+        <target state="translated">Oui, Bacula est déjà installé sur cet hôte, je souhaite utiliser Bacularis avec.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 304</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10412" resname="No. I do not have Bacula installed. I would like to install Bacula now and use Bacularis with it.">
+        <source>No. I do not have Bacula installed. I would like to install Bacula now and use Bacularis with it.</source>
+        <target state="translated">Non, Bacula n’est pas installé, je souhaite l’installer et l’utiliser avec Bacularis.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 305</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10414" resname="What is your operating system?">
+        <source>What is your operating system?</source>
+        <target state="translated">Quel est votre système d’exploitation ?</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 306</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10416" resname="Operating system:">
+        <source>Operating system:</source>
+        <target state="translated">Système d’exploitation :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 307</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10418" resname="What are your system admin account credentials?">
+        <source>What are your system admin account credentials?</source>
+        <target state="translated">Quelles sont les informations d’identification du compte administrateur système ?</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 308</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10420" resname="System admin login:">
+        <source>System admin login:</source>
+        <target state="translated">Identifiant administrateur système :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 309</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10422" resname="System admin password:">
+        <source>System admin password:</source>
+        <target state="translated">Mot de passe administrateur système :</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 310</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10424" resname="After clicking the install Bacula button, there will be installed on this host Catalog (PostgreSQL), Bacula Director, Client, Storage and Bconsole.">
+        <source>After clicking the install Bacula button, there will be installed on this host Catalog (PostgreSQL), Bacula Director, Client, Storage and Bconsole.</source>
+        <target state="translated">Après avoir cliqué sur le bouton d’installation de Bacula, les composants Catalog (PostgreSQL), Bacula Director, Client, Storage et Bconsole seront installés sur cet hôte.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 311</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10426" resname="Install Bacula">
+        <source>Install Bacula</source>
+        <target state="translated">Installer Bacula</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 312</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10428" resname="Bacula has been installed successfully. You can close this window and go further.">
+        <source>Bacula has been installed successfully. You can close this window and go further.</source>
+        <target state="translated">Bacula a été installé avec succès. Vous pouvez fermer cette fenêtre et continuer.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 313</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10430" resname="Result">
+        <source>Result</source>
+        <target state="translated">Résultat</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 314</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10432" resname="Raw output">
+        <source>Raw output</source>
+        <target state="translated">Sortie brute</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 315</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10434" resname="Add SUDO settings">
+        <source>Add SUDO settings</source>
+        <target state="translated">Ajouter les paramètres SUDO</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 316</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10436" resname="Configure Bacularis">
+        <source>Configure Bacularis</source>
+        <target state="translated">Configurer Bacularis</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 317</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10438" resname="Install Catalog">
+        <source>Install Catalog</source>
+        <target state="translated">Installer le Catalogue</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 318</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10440" resname="Install Director">
+        <source>Install Director</source>
+        <target state="translated">Installer le Directeur</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 319</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10442" resname="Install Storage">
+        <source>Install Storage</source>
+        <target state="translated">Installer le Stockage</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 320</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10444" resname="Install Client">
+        <source>Install Client</source>
+        <target state="translated">Installer le Client</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 321</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10446" resname="Install Bconsole">
+        <source>Install Bconsole</source>
+        <target state="translated">Installer Bconsole</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 322</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10448" resname="Step">
+        <source>Step</source>
+        <target state="translated">Étape</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 323</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10450" resname="Close">
+        <source>Close</source>
+        <target state="translated">Fermer</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 324</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10452" resname="Plugin settings">
+        <source>Plugin settings</source>
+        <target state="translated">Paramètres du plugin</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 325</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10454" resname="Installed plugins">
+        <source>Installed plugins</source>
+        <target state="translated">Plugins installés</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 326</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10456" resname="Add plugin settings">
+        <source>Add plugin settings</source>
+        <target state="translated">Ajouter les paramètres du plugin</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 327</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10458" resname="Plugin name">
+        <source>Plugin name</source>
+        <target state="translated">Nom du plugin</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 328</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10460" resname="Enabled">
+        <source>Enabled</source>
+        <target state="translated">Activé</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 329</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10462" resname="Type">
+        <source>Type</source>
+        <target state="translated">Type</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 330</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10464" resname="Version">
+        <source>Version</source>
+        <target state="translated">Version</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 331</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10466" resname="Select plugin">
+        <source>Select plugin</source>
+        <target state="translated">Sélectionner le plugin</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 332</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10468" resname="Plugin">
+        <source>Plugin</source>
+        <target state="translated">Plugin</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 333</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10470" resname="Edit plugin settings">
+        <source>Edit plugin settings</source>
+        <target state="translated">Modifier les paramètres du plugin</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 334</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10472" resname="Plugins">
+        <source>Plugins</source>
+        <target state="translated">Plugins</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 335</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10474" resname="Tip: Use left-click to select table row. Use CTRL + left-click to multiple row selection. Use SHIFT + left-click to add a range of rows to selection.">
+        <source>Tip: Use left-click to select table row. Use CTRL + left-click to multiple row selection. Use SHIFT + left-click to add a range of rows to selection.</source>
+        <target state="translated">Astuce : utilisez le clic gauche pour sélectionner une ligne du tableau. Utilisez CTRL + clic gauche pour une sélection multiple. Utilisez SHIFT + clic gauche pour ajouter une plage de lignes à la sélection.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 336</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10476" resname="Remove">
+        <source>Remove</source>
+        <target state="translated">Supprimer</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 337</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10478" resname="Plugin settings with the given name already exists.">
+        <source>Plugin settings with the given name already exists.</source>
+        <target state="translated">Les paramètres du plugin portant ce nom existent déjà.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 338</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10480" resname="Login test">
+        <source>Login test</source>
+        <target state="translated">Test de connexion</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 339</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10482" resname="Test">
+        <source>Test</source>
+        <target state="translated">Test</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 340</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10484" resname="Show result">
+        <source>Show result</source>
+        <target state="translated">Afficher le résultat</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 341</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10486" resname="Hide result">
+        <source>Hide result</source>
+        <target state="translated">Masquer le résultat</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 342</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10488" resname="Do you want to setup the Bacula Catalog Database access?">
+        <source>Do you want to setup the Bacula Catalog Database access?</source>
+        <target state="translated">Voulez-vous configurer l’accès à la base de données du catalogue Bacula ?</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 343</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10490" resname="Bconsole configuration">
+        <source>Bconsole configuration</source>
+        <target state="translated">Configuration de Console Bconsole</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 344</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10492" resname="Bacularis uses read-only access to the Bacula database.">
+        <source>Bacularis uses read-only access to the Bacula database.</source>
+        <target state="translated">Bacularis utilise un accès en lecture seule à la base de données Bacula.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 345</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10494" resname="Bacularis uses Bacula console access to execute Bacula commands.">
+        <source>Bacularis uses Bacula console access to execute Bacula commands.</source>
+        <target state="translated">Bacularis utilise l’accès à la console Bacula pour exécuter les commandes Bacula.</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 346</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10496" resname="Do you want to setup the Bacula Bconsole access?">
+        <source>Do you want to setup the Bacula Bconsole access?</source>
+        <target state="translated">Voulez-vous configurer l’accès à Bacula Bconsole ?</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 347</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10498" resname="Catalog configuration">
+        <source>Catalog configuration</source>
+        <target state="translated">Configuration du catalogue</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 348</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10500" resname="Bacula configuration">
+        <source>Bacula configuration</source>
+        <target state="translated">Configuration de Bacula</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 349</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10502" resname="RHEL, CentOS, Fedora, Rocky Linux, AlmaLinux, Oracle Linux and others">
+        <source>RHEL, CentOS, Fedora, Rocky Linux, AlmaLinux, Oracle Linux and others</source>
+        <target state="translated">RHEL, CentOS, Fedora, rauque-yAlma Linux et autres</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 350</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10504" resname="Debian, Ubuntu and others">
+        <source>Debian, Ubuntu and others</source>
+        <target state="translated">Debian, Ubuntu et autres</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 351</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10506" resname="SLES, openSUSE and others">
+        <source>SLES, openSUSE and others</source>
+        <target state="translated">SLES, openSUSE et autres</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 352</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10508" resname="The configuration interface enables to configure Bacula components (Director, Storage, Client and Bconsole).">
+        <source>The configuration interface enables to configure Bacula components (Director, Storage, Client and Bconsole).</source>
+        <target state="translated">L’interface de configuration permet de configurer les composants Bacula (Director, Storage, Client et Bconsole).</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 353</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10510" resname="Do you want to setup the Bacula configuration interface?">
+        <source>Do you want to setup the Bacula configuration interface?</source>
+        <target state="translated">Voulez-vous configurer l’interface de configuration de Bacula ?</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 354</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10512" resname="Plugin not installed">
+        <source>Plugin not installed</source>
+        <target state="translated">Plugin non installé</target>
+        <context-group purpose="information">
+          <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 355</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
