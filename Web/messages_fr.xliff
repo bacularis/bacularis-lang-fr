@@ -623,7 +623,7 @@
       </trans-unit>
       <trans-unit id="6705" resname="Job name:">
         <source>Job name:</source>
-        <target state="translated">Nom du Job :</target>
+        <target state="translated">Nom de la tâche (job) :</target>
         <context-group purpose="information">
           <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 90</context>
         </context-group>
@@ -658,14 +658,14 @@
       </trans-unit>
       <trans-unit id="6715" resname="Run job">
         <source>Run job</source>
-        <target state="translated">Lancer le job</target>
+        <target state="translated">Lancer la tâche (job)</target>
         <context-group purpose="information">
           <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 95</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6717" resname="Estimate job">
         <source>Estimate job</source>
-        <target state="translated">Estimer le job</target>
+        <target state="translated">Estimer la tâche (job)</target>
         <context-group purpose="information">
           <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 96</context>
         </context-group>
@@ -707,7 +707,7 @@
       </trans-unit>
       <trans-unit id="6729" resname="Jobs">
         <source>Jobs</source>
-        <target state="translated">Jobs</target>
+        <target state="translated">Tâches (Jobs)</target>
         <context-group purpose="information">
           <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 102</context>
         </context-group>
@@ -784,7 +784,7 @@
       </trans-unit>
       <trans-unit id="6751" resname="Job retention value must be integer.">
         <source>Job retention value must be integer.</source>
-        <target state="translated">La valeur de la rétention des Jobs doit être un entier.</target>
+        <target state="translated">La valeur de la rétention des tâches (Jobs) doit être un entier.</target>
         <context-group purpose="information">
           <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 113</context>
         </context-group>
@@ -798,14 +798,14 @@
       </trans-unit>
       <trans-unit id="6755" resname="Max. vol. jobs:">
         <source>Max. vol. jobs:</source>
-        <target state="translated">Max. vol. jobs:</target>
+        <target state="translated">Max. vol. tâches (jobs):</target>
         <context-group purpose="information">
           <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 115</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6757" resname="Max. vol. jobs value must be integer.">
         <source>Max. vol. jobs value must be integer.</source>
-        <target state="translated">La valeur de &quot;Max. vol. jobs.&quot; doit être un entier.</target>
+        <target state="translated">La valeur de &quot;Max. vol. taches (jobs).&quot; doit être un entier.</target>
         <context-group purpose="information">
           <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 116</context>
         </context-group>
@@ -882,7 +882,7 @@
       </trans-unit>
       <trans-unit id="6779" resname="Job retention value must be positive integer or zero.">
         <source>Job retention value must be positive integer or zero.</source>
-        <target state="translated">La valeur &quot;Job retention&quot; doit être un entier positif ou nul.</target>
+        <target state="translated">La valeur &quot;tâche (Job) retention&quot; doit être un entier positif ou nul.</target>
         <context-group purpose="information">
           <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 127</context>
         </context-group>
@@ -896,7 +896,7 @@
       </trans-unit>
       <trans-unit id="6783" resname="Job retention (in days):">
         <source>Job retention (in days):</source>
-        <target state="translated">Rétention sur les jobs (en jours):</target>
+        <target state="translated">Rétention sur les tâches (jobs) (en jours):</target>
         <context-group purpose="information">
           <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 129</context>
         </context-group>
@@ -16593,21 +16593,21 @@ La configuration est divisée en ressources Bacula (fichiers de configuration) p
       </trans-unit>
       <trans-unit id="11613" resname="Recent jobs">
         <source>Recent jobs</source>
-        <target state="translated">Tâches récentes</target>
+        <target state="translated">Tâches (job) récentes</target>
         <context-group purpose="information">
           <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 2370</context>
         </context-group>
       </trans-unit>
       <trans-unit id="11615" resname="Scheduled for today">
         <source>Scheduled for today</source>
-        <target state="translated">Planifiées pour aujourd’hui</target>
+        <target state="translated">Tâches (job) planifiées pour aujourd’hui</target>
         <context-group purpose="information">
           <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 2371</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="11617" resname="Scheduled for next 5 days">
-        <source>Scheduled for next 5 days</source>
-        <target state="translated">Planifiées pour les 5 prochains jours</target>
+      <trans-unit id="11617" resname="Scheduled for the next 5 days">
+        <source>Scheduled for the next 5 days</source>
+        <target state="translated">Tâches (job) planifiées pour les 5 prochains jours</target>
         <context-group purpose="information">
           <context context-type="source">This text has no context info. The text is used in messages.po. Position in file: 2372</context>
         </context-group>

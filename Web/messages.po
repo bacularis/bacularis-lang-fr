@@ -7128,13 +7128,16 @@ msgid "You can also add an autochanger to Bacularis in the web interface using t
 msgstr "Vous pouvez également ajouter un autochargeur à Bacularis via l’interface web en utilisant l’assistant de stockage dans [Menu principal] => [Page : Stockage] => [Bouton : Ajouter un stockage sur bande]."
 
 msgid "Recent jobs"
-msgstr "Tâches récentes"
+msgstr "Tâches (job) récentes"
 
 msgid "Scheduled for today"
-msgstr "Planifiées pour aujourd’hui"
+msgstr "Taches (job) planifiées pour aujourd’hui"
 
 msgid "Scheduled for next 5 days"
 msgstr "Planifiées pour les 5 prochains jours"
+
+msgid "Scheduled for the next 5 days"
+msgstr "Tâches (job) planifiées pour les 5 prochains jours"
 
 msgid "Starts in"
 msgstr "Démarre dans"
