@@ -2575,7 +2575,7 @@ msgid "Vol. type"
 msgstr "Type Vol."
 
 msgid "Vol. cloud parts"
-msgstr "Partie cloud Vol."
+msgstr "Partie nuage (cloud) Vol."
 
 msgid "Last part bytes"
 msgstr "Octets de la dernière partie"
@@ -3175,10 +3175,10 @@ msgid "Messages"
 msgstr "Messages"
 
 msgid "Last %errors/%count jobs finished with error."
-msgstr "Dernierres %errors/%count itâches (jobs) terminées avec des erreurs."
+msgstr "dernières %errors/%count tâches (jobs) terminées avec des erreurs."
 
 msgid "All last %count jobs finished successfully."
-msgstr "Tous les %count dernierres tâches (jobs) ont été terminés avec succès."
+msgstr "Les %count dernières tâches (jobs) ont été terminés avec succès."
 
 msgid "Drive index"
 msgstr "Index du lecteur"
@@ -3763,7 +3763,7 @@ msgid "Migrate jobs run moving backup jobs data from one volume to another. It i
 msgstr "Migrer des tâches (jobs) exécutent le déplacement des données de sauvegarde d'un volume vers un autre. Il est fait en lisant les données précédemment sauvegardées à partir du volume et en l'écrivant dans un autre volume dans un groupe différent. Les enregistrements du catalogue de fichiers associés aux tâches (jobs) de sauvegarde originales sont purgés. Tous les processus s'exécutent sans utiliser le démon de fichier."
 
 msgid "New migrate job"
-msgstr "Nouveau tâche (job) de migration"
+msgstr "Nouvelle tâche (job) de migration"
 
 msgid "Please select the criteria that will be used for selecting backup jobs to migrate."
 msgstr "Veuillez sélectionner les critères qui seront utilisés pour sélectionner les tâches (jobs) de sauvegarde à migrer."
@@ -3928,7 +3928,7 @@ msgid "Job log"
 msgstr "Historique de la tâche (job)"
 
 msgid "New verify job"
-msgstr "Nouveau tâche (job) de vérification"
+msgstr "Nouvelle tâche (job) de vérification"
 
 msgid "New verify job wizard"
 msgstr "Nouvel assistant de vérification de la tâche (job)"
@@ -5773,22 +5773,22 @@ msgid "Select an API host to set resources and permissions. Please note that the
 msgstr "Sélectionnez un hôte API pour définir les ressources et les permissions. Notez que l’hôte API « Main » n’est pas listé car il s’agit de l’hôte API à accès complet, qui ne doit pas être limité. "
 
 msgid "Add cloud storage"
-msgstr "Ajouter un stockage cloud"
+msgstr "Ajouter un stockage dans le nuage (cloud)"
 
 msgid "New cloud storage wizard"
-msgstr "Nouvel assistant de stockage cloud"
+msgstr "Nouvel assistant de stockage dans le nuage (cloud)"
 
 msgid "This wizard enables you to create in easy way a new cloud storage."
-msgstr "Cet assistant vous permet de créer facilement un nouveau stockage cloud."
+msgstr "Cet assistant vous permet de créer facilement un nouveau stockage dans le nuage (cloud)."
 
 msgid "Storage daemon name"
 msgstr "Nom du démon de stockage"
 
 msgid "Step 3 - cloud parameters"
-msgstr "Étape 3 – paramètres du cloud"
+msgstr "Étape 3 – paramètres du nuage (cloud)"
 
 msgid "What is your cloud type?"
-msgstr "Quel est votre type de cloud ?"
+msgstr "Quel est votre type de nuage (cloud)?"
 
 msgid "NOTE: The Amazon driver replaces the deprecated S3 driver."
 msgstr "REMARQUE : le pilote Amazon remplace le pilote S3 obsolète."
@@ -5797,7 +5797,7 @@ msgid "Driver"
 msgstr "Pilote (driver)"
 
 msgid "What are connection parameters of your cloud?"
-msgstr "Quels sont les paramètres de connexion de votre cloud ?"
+msgstr "Quels sont les paramètres de connexion de votre nuage (cloud)?"
 
 msgid "Bucket name"
 msgstr "Nom du bucket"
@@ -5812,16 +5812,16 @@ msgid "Region"
 msgstr "Région"
 
 msgid "When would you like to send data to cloud?"
-msgstr "Quand souhaitez‑vous envoyer les données vers le cloud ?"
+msgstr "Quand souhaitez‑vous envoyer les données vers le nuage (cloud)?"
 
 msgid "Manual"
 msgstr "Manuel"
 
 msgid "I upload volumes to cloud manually by bconsole 'cloud' command"
-msgstr "Je téléverse les volumes vers le cloud manuellement avec la commande bconsole cloud"
+msgstr "Je téléverse les volumes vers le cloud manuellement avec la commande bconsole idu nuage (cloud)"
 
 msgid "Bacula storage daemon sends each volume part to cloud when it is complete"
-msgstr "Le démon de stockage Bacula envoie chaque partie de volume vers le cloud lorsqu’elle est terminée"
+msgstr "Le démon de stockage Bacula envoie chaque partie de volume vers le nuage (cloud) lorsqu’elle est terminée"
 
 msgid "Bacula storage daemon sends all volume parts that have not been previously uploaded at the end of the job"
 msgstr "Le démon de stockage Bacula envoie toutes les parties de volume non encore téléversées à la fin du travail"
@@ -5833,10 +5833,10 @@ msgid "Truncate cache"
 msgstr "Tronquer le cache"
 
 msgid "Cloud"
-msgstr "Cloud"
+msgstr "Nuage (Cloud)"
 
 msgid "Cloud driver"
-msgstr "Pilote cloud (driver)"
+msgstr "Pilote (driver) pour le nuage (cloud)"
 
 msgid "Upload"
 msgstr "Téléversement"
@@ -5848,7 +5848,7 @@ msgid "Blob endpoint"
 msgstr "Point de terminaison Blob"
 
 msgid "Before using this wizard the cloud storage plugin has to be installed."
-msgstr "Avant d’utiliser cet assistant, le plugin de stockage cloud doit être installé."
+msgstr "Avant d’utiliser cet assistant, le plugin de stockage dans le nuage (cloud) doit être installé."
 
 msgid "Step 4 - summary"
 msgstr "Étape 4 – résumé"
@@ -5857,13 +5857,13 @@ msgid "Where should storage store local backup data (local cache)?"
 msgstr "Où le stockage doit‑il conserver les données de sauvegarde locales (cache local) ?"
 
 msgid "In this directory is stored Bacula volume data locally and from here it is uploaded to the cloud."
-msgstr "Dans ce répertoire sont stockées localement les données de volume Bacula, qui sont ensuite téléversées vers le cloud."
+msgstr "Dans ce répertoire sont stockées localement les données de volume Bacula, qui sont ensuite téléversées vers le nuage (cloud)."
 
 msgid "Single cloud device storage"
-msgstr "Stockage cloud à périphérique unique"
+msgstr "Stockage dans le nuage (cloud) à périphérique unique"
 
 msgid "Multi-device cloud storage (Autochanger)"
-msgstr "Stockage cloud multi‑périphériques (autochanger)"
+msgstr "Stockage dans le nuage (cloud) multi‑périphériques (autochanger)"
 
 msgid "Please select one of the options."
 msgstr "Veuillez sélectionner une des options."
@@ -6241,7 +6241,7 @@ msgid "Select action"
 msgstr "Sélectionner une action"
 
 msgid "If you use non-AWS S3 cloud storage, please don't forget to set the BlobEndpoint directive in the advanced options below."
-msgstr "Si vous utilisez un stockage cloud S3 autre que AWS, n’oubliez pas de définir la directive BlobEndpoint dans les options avancées ci‑dessous."
+msgstr "Si vous utilisez un stockage dans le nuage (cloud) S3 autre que AWS, n’oubliez pas de définir la directive BlobEndpoint dans les options avancées ci‑dessous."
 
 msgid "NOTE"
 msgstr "Remarque"
@@ -7374,7 +7374,7 @@ msgid "AWS accounts"
 msgstr "Comptes AWS"
 
 msgid "Configure AWS accounts used for backup and restore operations. You can use the same account or different accounts for individual EC2 instance and EBS volume backups. AWS accounts are also used to retrieve and display AWS resources on this Cloud page."
-msgstr "Configurez les comptes AWS utilisés pour les opérations de sauvegarde et de restauration. Vous pouvez utiliser le même compte ou des comptes différents pour les sauvegardes d’instances EC2 et de volumes EBS. Les comptes AWS servent également à récupérer et afficher les ressources AWS sur cette page Cloud."
+msgstr "Configurez les comptes AWS utilisés pour les opérations de sauvegarde et de restauration. Vous pouvez utiliser le même compte ou des comptes différents pour les sauvegardes d’instances EC2 et de volumes EBS. Les comptes AWS servent également à récupérer et afficher les ressources AWS sur cette page du nuage (Cloud)."
 
 msgid "Add AWS account"
 msgstr "Ajouter un compte AWS"
